@@ -1,0 +1,1 @@
+execute if entity @a[tag=regiongen] run function regiongen:step
